@@ -20,9 +20,6 @@ Here are a few of the projects I've worked on:
 
 Feel free to explore these projects, and don't hesitate to provide feedback or suggestions!
 
-## 📚 Blogs and Articles
-I enjoy sharing my knowledge and experiences through blogs and articles. You can find some of my writings [here](Link to Blog Section).
-
 ## 📫 Let's Connect
 I'm always open to collaborations, discussions, or just a friendly chat. Feel free to reach out to me via [email](vedant.ny@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/vedant-yadav-755bb0259/).
 
