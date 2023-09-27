@@ -8,7 +8,6 @@ I'm Vedant Yadav, a passionate and aspiring software developer. I have a strong 
 - Web Development: JavaScript, NodeJS, HTML, CSS, Bootstrap
 - Databases: SQL
 - Version Control: Git
-- Problem Solving: [Mention any specific skills related to problem-solving]
 
 ## 🌱 Currently Learning
 I believe in continuous improvement. Currently, I'm honing my skills in Advanced Java.
