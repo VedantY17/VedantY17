@@ -16,6 +16,7 @@ I believe in continuous improvement. Currently, I'm honing my skills in Advanced
 Here are a few of the projects I've worked on:
 - ChatApp using NodeJS and WebSockets (https://github.com/VedantY17/CodeClause_Chat-Application-using-WebSockets)
 - TransportEasy - An Automobile Trading Web Application (https://github.com/VedantY17/TransportEasy-Website)
+- Library Mangement System using Hibernate with JPA (https://github.com/VedantY17/Library_Management_System-Hibernate)
 
 Feel free to explore these projects, and don't hesitate to provide feedback or suggestions!
 
