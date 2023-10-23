@@ -5,8 +5,11 @@ I'm Vedant Yadav, a passionate and aspiring software developer. I have a strong 
 
 ## 🔧 Skills
 - Programming Languages: Java, Python
+- Frameworks: Hibernate, Spring, Collections, Map
+- Technologies: Spring Boot, Spring MVC, Servlets
+- API's: JPA, JDBC, REST
 - Web Development: JavaScript, NodeJS, HTML, CSS, Bootstrap
-- Databases: SQL
+- Databases: MySQL
 - Version Control: Git
 
 ## 🌱 Currently Learning
@@ -14,8 +17,8 @@ I believe in continuous improvement. Currently, I'm honing my skills in Advanced
 
 ## 💼 My Projects
 Here are a few of the projects I've worked on:
+- Quick Stay Pro Application using Servlets (https://github.com/VedantY17/Quick-Stay-Pro)
 - ChatApp using NodeJS and WebSockets (https://github.com/VedantY17/CodeClause_Chat-Application-using-WebSockets)
-- TransportEasy - An Automobile Trading Web Application (https://github.com/VedantY17/TransportEasy-Website)
 - Library Mangement System using Hibernate with JPA (https://github.com/VedantY17/Library_Management_System-Hibernate)
 
 Feel free to explore these projects, and don't hesitate to provide feedback or suggestions!
